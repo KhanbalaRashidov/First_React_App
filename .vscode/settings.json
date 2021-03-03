@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "Consolas",
+    "editor.fontSize": 14.5,
+    "bracketPairColorizer.excludedLanguages": [
+        
+    
+    ],
+    "editor.formatOnSave": true
+}
